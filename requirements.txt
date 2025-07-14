@@ -1,4 +1,3 @@
 pandas
-scipy
 streamlit
-pyploty_express
+plotly_express
